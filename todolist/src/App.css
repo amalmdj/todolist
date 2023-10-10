@@ -53,3 +53,12 @@
 .task div .icon {
   cursor: pointer;
 }
+
+.task div .trash-icon {
+  cursor: pointer;
+  color: red;
+}
+
+.checkbox .green {
+  color: green; 
+}
