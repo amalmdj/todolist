@@ -1,3 +1,5 @@
+/* Ces règles CSS définissent la mise en forme des éléments de l'application */
+
 .home {
   display: flex;
   flex-direction: column;
